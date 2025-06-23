@@ -39,5 +39,8 @@ if (existingItem.quantity === 1) {
 
     }
 });
+
+
+
  export const cartAction = cartSlice.actions;
 export default cartSlice;
